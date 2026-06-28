@@ -17,3 +17,7 @@ python scrap.py
 ```
 
 Prints a dataframe of WIG20 non-bank tickers and their EBITDA (in thousands PLN, as reported on biznesradar.pl).
+
+## License
+
+MIT
